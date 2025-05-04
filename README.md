@@ -1,5 +1,26 @@
-# Vue 3 + Vite
+# TaskMaster 📝
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+**TaskMaster** is a modern and responsive task management web app built with Vue 3, Vite, and Tailwind CSS. It uses Vue Single File Components (SFCs) for modular architecture, allowing users to easily create, manage, and delete tasks in a clean UI.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🚀 Features
+
+- ✅ Add, edit, and delete tasks
+- ✅ Mark tasks as complete
+- ✅ Clean and responsive UI with Tailwind CSS
+- ✅ Built using Vue 3 Single File Components (SFC)
+- ✅ Fast development with Vite
+
+## 🛠️ Tech Stack
+
+- [Vue 3](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+## 📦 Setup Instructions
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/muslimELHADHARI/taskmaster.git
+   cd taskmaster
